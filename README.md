@@ -1,8 +1,7 @@
 # Sports-emoji-guide app
 
-Ever come across an emoji you don't know? Look no further than this very app.
-Just enter the emoji and find out what it represents
-(Only works with emojis relating to sports).
+There are many emoji's which we don't know, This is kind of app that help people like us.
+Just enter the emoji and find out what it means. Exclusively sports emoji
 
 Live Demo: https://q59yi.csb.app/
 
